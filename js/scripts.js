@@ -1,4 +1,4 @@
-$(function(){
+//$(function(){
 	var carouselList = $("#carousel ul");
 	setInterval(changeSlide, 3000); 
 	function changeSlide(){
@@ -13,5 +13,6 @@ $(function(){
 
 	}
 	
-});
+	
+//});
 
